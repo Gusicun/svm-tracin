@@ -4,6 +4,8 @@ use svm to analise tracin_score vs distances
 
 使用模型：linear svm（手写）
 
+主要运行文件：svm.ipynb
+
 使用的距离计算：欧氏距离，余弦距离，曼哈顿城市距离，切比雪夫距离，相关因素距离，马氏距离
 
 主要修改的文件：压缩包中linear_classifier.py
